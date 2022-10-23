@@ -33,3 +33,6 @@ with open('tidevannsdata_csv.txt', 'r') as f:
         except ValueError:
             pass
     print(f'Tidspunkt: {tidspunkt}\n\nStrøm retning 1:{strom_r1}\n\nStrøm retning 2:{strom_r2}')
+    
+    
+    print('dette ner nytt og skrevet inn i github')
